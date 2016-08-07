@@ -6,7 +6,7 @@
   "scripts": {
     "test": "node test/test.js"
   },
-  
+  "repository": "https://github.com/EmergentIdeas/node-har-to-requests.git",
   "author": "Dan Kolz",
   "license": "ISC",
   "dependencies": {
