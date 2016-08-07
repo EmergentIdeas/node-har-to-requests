@@ -1,0 +1,15 @@
+{
+  "name": "har-to-requests",
+  "version": "1.0.0",
+  "description": "Takes a HAR structure and returns an array of resources referenced",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  
+  "author": "Dan Kolz",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.14.1"
+  }
+}
